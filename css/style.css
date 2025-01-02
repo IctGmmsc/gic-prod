@@ -408,6 +408,10 @@ a:focus {
   .slider_section .img-box {
     margin: 20px auto; /* Add spacing for image box */
   }
+  .slider_section .detail-box .btn-box {
+    justify-content: center; /* Center buttons horizontally */
+    margin: 20px auto; /* Add spacing for the button box */
+  }
 }
 
 
