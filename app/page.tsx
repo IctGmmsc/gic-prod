@@ -76,7 +76,7 @@ export default function Home() {
         instagram: "https://www.instagram.com/_par.tho/",
       },
       {
-        name: "Arian as Sami",
+        name: "Arian Aas Sami",
         designation: "General Secretary",
         Panel: "2025-2026",
         section: "12-Beta",
